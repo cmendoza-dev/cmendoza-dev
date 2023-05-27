@@ -7,7 +7,7 @@
         Busca contribuir al desarrollo de productos y proyectos tecnológicos de calidad.<br>
     </i>
     </i><br>
-    <a href="https://www.linkedin.com/in/cmendoza-dev">
+    <a href="www.linkedin.com/in/carlos-mendoza-solis-developer/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
@@ -37,8 +37,9 @@
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux)](https://github.com/cmendoza-dev)
 
 ### Social Links
-[![Linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.kaggle.com/cmendoza-dev)
-[![Instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram)](https://leetcode.com/cmendoza-dev/)
+[![Linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-mendoza-solis-developer/)
+[![Instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/carlosmendoza.dev/)
+
 
 <details>
 <p align="center">
