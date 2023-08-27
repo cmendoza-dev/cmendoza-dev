@@ -3,7 +3,7 @@
     <b>¡Bienvenido a mi página!</b><br><br>
     <i>
         Soy Carlos.<br>
-        Estudiante de IV ciclo de la carrera de Diseño y Desarrollo de Software.<br>
+        Estudiante de V ciclo de la carrera de Diseño y Desarrollo de Software.<br>
         Busca contribuir al desarrollo de productos y proyectos tecnológicos de calidad.<br>
     </i>
     </i><br>
