@@ -2,9 +2,7 @@
 <p align="center">
     <b>¡Bienvenido a mi página!</b><br><br>
     <i>
-        Soy Carlos.<br>
-        Estudiante de VI ciclo de la carrera de Diseño y Desarrollo de Software.<br>
-        Busca contribuir al desarrollo de productos y proyectos tecnológicos de calidad.<br>
+Estudiante sobresaliente del sexto ciclo de la carrera de Diseño y Desarrollo de Software en Tecsup N° 1, perteneciente al décimo superior, becado por el Programa Nacional de Becas y Crédito Educativo, con habilidades técnicas y conocimientos en desarrollo de software. Con capacidad de solución de problemas, comunicación efectiva, trabajo en equipo, facilidad de adaptación y aprendizaje autónomo. Busca oportunidades para aplicar sus habilidades y contribuir al desarrollo de productos y proyectos tecnológicos de calidad.
     </i>
     </i><br>
     <a href="www.linkedin.com/in/carlos-mendoza-solis-developer/">
