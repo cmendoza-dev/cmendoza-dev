@@ -2,7 +2,7 @@
 <p align="center">
     <b>Soy Carlos Mendoza</b><br><br>
     <i>
-Estudiante sobresaliente del sexto ciclo de la carrera de Diseño y Desarrollo de Software en Tecsup N° 1, perteneciente al décimo superior, becado por el Programa Nacional de Becas y Crédito Educativo, con habilidades técnicas y conocimientos en desarrollo de software. Con capacidad de solución de problemas, comunicación efectiva, trabajo en equipo, facilidad de adaptación y aprendizaje autónomo. Busca oportunidades para aplicar sus habilidades y contribuir al desarrollo de productos y proyectos tecnológicos de calidad. <br>
+Desarrollador de software recién egresado con sólidas habilidades en diseño y desarrollo web. Experiencia en proyectos académicos y prácticas profesionales utilizando tecnologías como React, PHP y JavaScript. Destacado por la resolución eficaz de problemas, comunicación efectiva y rápida adaptación a nuevas tecnologías. Busco aplicar mis conocimientos en desarrollo front-end y back-end para contribuir al éxito de proyectos tecnológicos innovadores.<br>
     </i>
     </i><br>
     <a href="www.linkedin.com/in/carlos-mendoza-solis-developer/">
