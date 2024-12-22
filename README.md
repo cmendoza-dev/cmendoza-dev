@@ -1,10 +1,10 @@
 <h1 align="center">Hola 👋></h1>
 <p align="center">
-    <b>Soy Carlos Mendoza</b><br><br>
-    <i>
+    <b>Soy Carlos Mendoza</b>
+
 Desarrollador Fullstack Junior con experiencia en diseño y desarrollo de soluciones tecnológicas utilizando Node.js, MongoDB y Vue.js, además de un sólido manejo de Python, PHP y JavaScript adquirido en proyectos académicos y prácticas preprofesionales. Destaco por mi capacidad para resolver problemas, adaptarme rápidamente a nuevos entornos tecnológicos y trabajar en equipo de manera efectiva. Con un enfoque en la calidad y la innovación, busco contribuir al desarrollo de productos tecnológicos que generen impacto positivo. Nivel de inglés: Intermedio B1.<br>
-    </i>
-    </i><br>
+
+   <br>
     <a href="www.linkedin.com/in/carlos-mendoza-solis-developer/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
@@ -36,8 +36,6 @@ Desarrollador Fullstack Junior con experiencia en diseño y desarrollo de soluci
 
 ### Social Links
 [![Linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlos-mendoza-solis-developer/)
-[![Instagram](https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/carlosmendoza.dev/)
-
 
 <details>
 <p align="center">
