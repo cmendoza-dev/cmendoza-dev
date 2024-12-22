@@ -1,8 +1,8 @@
-<h1 align="center">¡Hola! 👋></h1>
+<h1 align="center">Hola 👋></h1>
 <p align="center">
     <b>Soy Carlos Mendoza</b><br><br>
     <i>
-Desarrollador de software recién egresado con sólidas habilidades en diseño y desarrollo web. Experiencia en proyectos académicos y prácticas profesionales utilizando tecnologías como React, PHP y JavaScript. Destacado por la resolución eficaz de problemas, comunicación efectiva y rápida adaptación a nuevas tecnologías. Busco aplicar mis conocimientos en desarrollo front-end y back-end para contribuir al éxito de proyectos tecnológicos innovadores.<br>
+Desarrollador Fullstack Junior con experiencia en diseño y desarrollo de soluciones tecnológicas utilizando Node.js, MongoDB y Vue.js, además de un sólido manejo de Python, PHP y JavaScript adquirido en proyectos académicos y prácticas preprofesionales. Destaco por mi capacidad para resolver problemas, adaptarme rápidamente a nuevos entornos tecnológicos y trabajar en equipo de manera efectiva. Con un enfoque en la calidad y la innovación, busco contribuir al desarrollo de productos tecnológicos que generen impacto positivo. Nivel de inglés: Intermedio B1.<br>
     </i>
     </i><br>
     <a href="www.linkedin.com/in/carlos-mendoza-solis-developer/">
